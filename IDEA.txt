@@ -3,10 +3,28 @@ AI agent Environment
 Educational emmersive world
 voice activated assitant
   - raspberry pi
-python gui to access multiple LMs depending on use case
+python gui to access multiple LMs depending on use case (1)
 model that cross refernece its information to know its own credibility
 - before writing its answer it will compare its answer with multiple internet websites/sources
 - fact checking ai 
 utilize image rcognition and use with camera 
 reverse differential equation to scan objects and give picture of its history
+software to connect to hardware and analyze the system and then control that hardware using user input and internet access to use tools
+hardware based ai ide (this is a great idea)
+3d modelling ai
+AI models with diffeent jobs and differnt traits and personalites
+knows context on spectific subject
+
+the librarian
+- will prompt you within a certain amount of time of using it based on its mempory of reacent wuestions youve asked
+recreate thisnhouse and create copies of ourselves in that unity verse
+
+
+
+archetecture
+generativce agent
+
+steps:
+1. set up raspberry pi for home station
+2. librarian archetrecutee based on research paper
 
