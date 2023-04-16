@@ -1,0 +1,12 @@
+Stickers/merch
+AI agent Environment
+Educational emmersive world
+voice activated assitant
+  - raspberry pi
+python gui to access multiple LMs depending on use case
+model that cross refernece its information to know its own credibility
+- before writing its answer it will compare its answer with multiple internet websites/sources
+- fact checking ai 
+utilize image rcognition and use with camera 
+reverse differential equation to scan objects and give picture of its history
+
