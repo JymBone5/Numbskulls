@@ -26,5 +26,9 @@ generativce agent
 
 steps:
 1. set up raspberry pi for home station
-2. librarian archetrecutee based on research paper
+2. create interface tools, speaker, microphone etc...
+2. librarian archetrecutee based on generative agents in research paper
+3. create 2d space on the hub for the agent to live and create plans everyday, backend tree, monitor behaiviour
+4. Give it roles and make multiple generative agents
+5.
 
