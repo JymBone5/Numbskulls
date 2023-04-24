@@ -3,7 +3,7 @@ from datetime import datetime
 from anytree import Node, RenderTree
 import numpy as np
 
-openai.api_key = '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'
+openai.api_key = "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"
 
 #parameters
 retrieval_size = 10
