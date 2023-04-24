@@ -5,13 +5,13 @@ from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 
 #key
-openai.api_key="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"
-key="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"
+openai.api_key="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"
+key="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"
 
 #model
 model_id='whisper-1'
 
-media_file_path= 'C:/AIRecordings/Recording.m4a'
+media_file_path= 'C:/GitHub_repos/Numbskulls/Prompt_rec/PplonEarth.m4a'
 media_file=open(media_file_path,'rb')
 
 response=openai.Audio.transcribe(

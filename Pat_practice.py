@@ -1,8 +1,7 @@
 #keys
-openai_api_key = "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"
+openai_api_key = "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""
 
 #libraries
-
 from langchain.llms import OpenAI
 from langchain.chat_models import ChatOpenAI
 
